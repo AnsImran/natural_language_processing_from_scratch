@@ -1,0 +1,4 @@
+/1. Natural Language Processing with Classification and Vector Spaces/W3 _ Vector Space Models/GoogleNews-vectors-negative300.bin.gz
+*.ipynb_checkpoints
+*__pycache__
+*my_log_dir
