@@ -1,0 +1,102 @@
+marina k pas sb kuch hay bas images nahi hain, dataset ka naam search kr k hugging face say hum khud bhi download kr sktay hain
+https://huggingface.co/datasets/stas/c4-en-10k
+
+
+fahasedik nay pytorch ki kuch notebooks bhi upload ki hui hain, see:/
+https://github.com/FahdSeddik/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/4-Natural%20Language%20Processing%20with%20Attention%20Models/Week%203
+
+
+is notebook main sentence tokenization ki baat ho rahi hay, must see:
+https://github.com/johnmoses/coursera-nlp-specialization/blob/main/C4-natural-language-processing-with-attention-models/Week3/C4_W3_SentencePiece_and_BPE.ipynb
+
+nlp specialisation ki porani notebooks ko bhi kum az kum daikhna zroor
+
+
+
+latest nlp with deep learning, from stanfors, kfiiii advance cheezain bhi hain yahan,
+https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+v.v. detailed, kai concepts jo main smjh nahi ska, vo yahan oor detail main smjh sktay hain..
+course ka main page:
+http://web.stanford.edu/class/cs224n/
+in saaray chootiyoon ko follow bhi krna, ye kaam k loog hain....
+but beware academic bhi hain, aap on loogoon ko bhi follow kro, bal k ziada shiddat say jo pesa bana rahay hain, outside real word main,...
+
+ye pytorch use krr ahay hain, yahan say pytoch k baray main bht smjh sktay hain
+in ki assignments notebooks na bhi milain tu search krna github par mil hi jayaingi... nahi tu kiisi say mang lena, directly contact kr k...
+
+
+
+
+
+https://ivlabs.github.io/resources/natural-language-processing/
+ye website kfii kaam ki hay, kfi info, special visaulistaionvli kaam ki hay
+
+
+
+
+
+
+https://web.stanford.edu/~jurafsky/slpdraft/
+looks like a nice book.
+Speech and Language Processing (3rd ed. draft)
+Dan Jurafsky and James H. Martin
+This is just an informal pre-release (dated Jan 5, 2024) of our 2024 release. The final draft of the 2024 release won't come til probably February, with more details. 
+mujhay tu book kfi readable lgi, easily readable
+
+is book k saray parts aik bar daikhna,
+specially part 3 annotating linguistic structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
