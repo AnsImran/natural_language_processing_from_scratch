@@ -1,3 +1,3 @@
-### To grasp the fundamentals of Natural Language Processing, I completed the [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) offered by [Coursera](https://www.coursera.org).
+### I completed the [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) on [Coursera](https://www.coursera.org) to build a strong foundation in NLP.  
 
-### Below are video explanations (**by me**) of the topics covered in the specialization, along with the corresponding code.
+### Here are video explanations (**made by me**) of the topics covered in the course, along with the related code.
